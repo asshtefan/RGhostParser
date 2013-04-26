@@ -1,0 +1,7 @@
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\bin\Release\RGhostParser.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\bin\Release\RGhostParser.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Release\RGhostParser.Form1.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Release\RGhostParser.Properties.Resources.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Release\RGhostParser.csproj.GenerateResource.Cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Release\RGhostParser.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Release\RGhostParser.pdb

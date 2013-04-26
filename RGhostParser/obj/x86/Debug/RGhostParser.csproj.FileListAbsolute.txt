@@ -1,0 +1,15 @@
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\bin\Debug\RGhostParser.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\bin\Debug\RGhostParser.pdb
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\obj\x86\Debug\RGhostParser.Form1.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\obj\x86\Debug\RGhostParser.Properties.Resources.resources
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\obj\x86\Debug\RGhostParser.csproj.GenerateResource.Cache
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\obj\x86\Debug\RGhostParser.exe
+C:\Users\Alexander\AppData\Local\Temporary Projects\RGhostParser\obj\x86\Debug\RGhostParser.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\bin\Debug\RGhostParser.exe
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\bin\Debug\RGhostParser.pdb
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.Form1.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.Properties.Resources.resources
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.csproj.GenerateResource.Cache
+C:\Users\Alexander\documents\visual studio 2010\Projects\RGhostParser\RGhostParser\obj\x86\Debug\RGhostParser.csprojResolveAssemblyReference.cache
